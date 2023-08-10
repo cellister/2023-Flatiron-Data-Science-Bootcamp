@@ -38,12 +38,17 @@ The data used in this analysis can be found in the ‘Data’ folder. It was ori
 
 The National Transportation Safety Board provides public data that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters. Each entry has a unique event ID associated with information such as the type of aircraft, date, fatalities, location, and many other factors.
 
-Overview of dataset:++
- **Source:** National Transportation Safety Board++
- **About:** National and international civil aviation and selected incidents from 1962-2023++
- **Design Variables used:** Total Fatal, Serious, Minor injuries, Total Uninjured, Make, Model, Engine Type, Amateur Built, Aircraft Damage++ 
- **Operations Variable used:**  Event Date++
- **Missing Values:** Rows missing complete data for make and model were dropped
+Overview of dataset:
+
+   **Source:** National Transportation Safety Board
+ 
+   **About:** National and international civil aviation and selected incidents from 1962-2023
+ 
+   **Design Variables used:** Total Fatal, Serious, Minor injuries, Total Uninjured, Make, Model, Engine Type, Amateur Built, Aircraft Damage
+ 
+   **Operations Variable used:**  Event Date
+ 
+   **Missing Values:** Rows missing complete data for make and model were dropped
 
 
 ## Key Findings
@@ -51,7 +56,9 @@ Overview of dataset:++
 **Top 10 Safest Airplanes:**
 * Passenger survival percentage for each make and model set determines the 10 safest airplanes.
 
+
 <img align="left" width="200" height="200" src="Images/10safest.png" alt="10safest">
+
 
 Design Recommendations
 
@@ -59,19 +66,25 @@ Design Recommendations
 
 * While experimental/amateur built aircrafts may show success, the survival rate for amateur built aircrafts involved in accidents is more than 15% lower than professional manufacturing.
 
+
 <img align="left" width="200" height="200" src="Images/Amateurbuilt.png" alt="Amateurbuilt">
+
 
 **Average Survival Percentage by Engine Type**
 
 * Several types of engines showed reliability. While electric, geared turbofan, and turbo shaft all had 100% survival rate, their survivors combined were 143 people. The turbo fan engine has a 98.78% survival rate and transported over 60K passengers suggesting further investigation is needed into the reported deaths to confirm that they were a direct result of the airplane accident. 
 
+
 <img align="left" width="200" height="200" src="Images/Enginetype.png" alt="Enginetype">
+
 
 **Average Survival Percentage by Aircraft Damage**
 
 * Looking at the aircraft damage category, anything destroyed is a high-risk, substantial is medium- risk, and minor is low-risk.
 
+
 <img align="left" width="200" height="200" src="Images/aircraftdamage.png" alt="aircraftdamage">
+
 
 Operational Recommendation
 
@@ -79,7 +92,9 @@ Operational Recommendation
 
 * The data showed the best survival rate on Tuesday. Overall, the data shows that it's safest to fly on weekdays.
 
+
 <img align="left" width="200" height="200" src="Images/dayofweek.png" alt="dayofweek">
+
 
 
 ## Actionable Insights
@@ -94,7 +109,9 @@ Operational Recommendation
 ## Author
 
 Name: Erin Wasserman
+
 GitHub: [Cellister](https://github.com/cellister)
+
 Email address: cellister at gmail .com
 
 
