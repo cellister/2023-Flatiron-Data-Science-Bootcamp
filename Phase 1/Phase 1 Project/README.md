@@ -1,6 +1,8 @@
-<span style="color:#16365e">   
+.md-content {
+    --md-typeset-a-color:#16365e;
+    }
 <font size= "6">Safest Aircraft Analysis Project</font>
-This project was completed as the final Phase 1 assessment in the Flatiron School’s Data Science Bootcamp.
+This project was completed as the final Phase 1 assessment in the Flatiron School’s Data Science Bootcamp. 
 
 
 <font size= "6">Overview</font>
@@ -23,19 +25,19 @@ It's important to note that any business recommendations derived from data analy
 
 * **Jupyter Notebook**
 
-The [Jupyter Notebook](https://github.com/cellister/2023-Flatiron-Data-Science-Bootcamp/blob/main/Phase%201/Phase%201%20Project/Phase%201%20Project%20Final%20Edits.ipynb) <a href="https://github.com/cellister/2023-Flatiron-Data-Science-Bootcamp/blob/main/Phase%201/Phase%201%20Project/Phase%201%20Project%20Final%20Edits.ipynb" style="color: #cf2527; text-decoration: underline;text-decoration-style: dotted;">custom link</a>is the key deliverable and contains the details of my data strategy, methodology, data cleaning, visualizations, and actionable insights.
+The <a href="https://github.com/cellister/2023-Flatiron-Data-Science-Bootcamp/blob/main/Phase%201/Phase%201%20Project/Phase%201%20Project%20Final%20Edits.ipynb" style="color: #cf2527;">[Jupyter Notebook](https://github.com/cellister/2023-Flatiron-Data-Science-Bootcamp/blob/main/Phase%201/Phase%201%20Project/Phase%201%20Project%20Final%20Edits.ipynb) </a>is the key deliverable and contains the details of my data strategy, methodology, data cleaning, visualizations, and actionable insights.
 
 * **Presentation**
 
-This 5-7 minute, non-technical presentation was made in [Canva](https://www.canva.com/design/DAFq9SLHAXA/iEdRqzE7akOfkr0au0UHvg/view?utm_content=DAFq9SLHAXA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) <a href="https://www.canva.com/design/DAFq9SLHAXA/iEdRqzE7akOfkr0au0UHvg/view?utm_content=DAFq9SLHAXA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" style="color: #cf2527; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+This 5-7 minute, non-technical presentation was made in [Canva](https://www.canva.com/design/DAFq9SLHAXA/iEdRqzE7akOfkr0au0UHvg/view?utm_content=DAFq9SLHAXA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) <a href="https://www.canva.com/design/DAFq9SLHAXA/iEdRqzE7akOfkr0au0UHvg/view?utm_content=DAFq9SLHAXA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" style="color: #cf2527;"></a>
 and gives an impactful and brief overview of the key insights and recommendations. 
 
 * **Data**
 
-The data used in this analysis can be found in the ‘Data’ folder. It was originally provided on the [Kaggle website](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)<a href="https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses" style="color: #cf2527; text-decoration: underline;text-decoration-style: dotted;">custom link</a>.
+The data used in this analysis can be found in the ‘Data’ folder. It was originally provided on the [Kaggle website](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses)<a href="https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses" style="color: #cf2527; text-decoration: underline;text-decoration-style: dotted;">Kaggle website</a>.
 
 
-<font size= "6">Data Understanding</font>
+<font size="6"> Data Understanding </font>
 
 The National Transportation Safety Board provides public data that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters. Each entry has a unique event ID associated with information such as the type of aircraft, date, fatalities, location, and many other factors.
 
