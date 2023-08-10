@@ -1,3 +1,4 @@
+<span style="color:#16365e">
 # Safest Aircraft Analysis Project
 
 This project was completed as the final Phase 1 assessment in the Flatiron School’s Data Science Bootcamp.
@@ -57,7 +58,7 @@ Overview of dataset:
 * Passenger survival percentage for each make and model set determines the 10 safest airplanes.
 
 
-<img align="left" width="200" height="200" src="Images/10safest.png" alt="10safest">
+<img width="400" height="400" src="Images/10safest.png" alt="10safest">
 
 
 Design Recommendations
@@ -67,7 +68,7 @@ Design Recommendations
 * While experimental/amateur built aircrafts may show success, the survival rate for amateur built aircrafts involved in accidents is more than 15% lower than professional manufacturing.
 
 
-<img align="left" width="200" height="200" src="Images/Amateurbuilt.png" alt="Amateurbuilt">
+<img width="400" height="400" src="Images/Amateurbuilt.png" alt="Amateurbuilt">
 
 
 **Average Survival Percentage by Engine Type**
@@ -75,7 +76,7 @@ Design Recommendations
 * Several types of engines showed reliability. While electric, geared turbofan, and turbo shaft all had 100% survival rate, their survivors combined were 143 people. The turbo fan engine has a 98.78% survival rate and transported over 60K passengers suggesting further investigation is needed into the reported deaths to confirm that they were a direct result of the airplane accident. 
 
 
-<img align="left" width="200" height="200" src="Images/Enginetype.png" alt="Enginetype">
+<img width="400" height="400" src="Images/Enginetype.png" alt="Enginetype">
 
 
 **Average Survival Percentage by Aircraft Damage**
@@ -83,7 +84,7 @@ Design Recommendations
 * Looking at the aircraft damage category, anything destroyed is a high-risk, substantial is medium- risk, and minor is low-risk.
 
 
-<img align="left" width="200" height="200" src="Images/aircraftdamage.png" alt="aircraftdamage">
+<img width="400" height="400" src="Images/aircraftdamage.png" alt="aircraftdamage">
 
 
 Operational Recommendation
@@ -93,7 +94,7 @@ Operational Recommendation
 * The data showed the best survival rate on Tuesday. Overall, the data shows that it's safest to fly on weekdays.
 
 
-<img align="left" width="200" height="200" src="Images/dayofweek.png" alt="dayofweek">
+<img width="400" height="400" src="Images/dayofweek.png" alt="dayofweek">
 
 
 
@@ -113,6 +114,6 @@ Name: Erin Wasserman
 GitHub: [Cellister](https://github.com/cellister)
 
 Email address: cellister at gmail .com
-
+ </span>
 
 
