@@ -1,4 +1,4 @@
-# Safest Aircraft Analysis Project
+# Aircraft Investment Analysis Project
 
 This project was completed as the final Phase 1 assessment in the Flatiron School’s Data Science Bootcamp. 
 
