@@ -25,7 +25,7 @@ The [Jupyter Notebook](https://github.com/cellister/2023-Flatiron-Data-Science-B
 
 * **Presentation**
 
-This 5-7 minute, non-technical presentation was made in [Canva](https://www.canva.com/design/DAFq9SLHAXA/iEdRqzE7akOfkr0au0UHvg/view?utm_content=DAFq9SLHAXA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) and gives an impactful and brief overview of the key insights and recommendations. 
+This 5-7 minute, non-technical [presentation](https://github.com/cellister/2023-Flatiron-Data-Science-Bootcamp/blob/main/Phase%201/Phase%201%20Project/Aircraft%20Investment%20Analysis%20Presentation.pdf) was made in [Canva](https://www.canva.com/design/DAFq9SLHAXA/iEdRqzE7akOfkr0au0UHvg/view?utm_content=DAFq9SLHAXA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) and gives an impactful and brief overview of the key insights and recommendations. 
 
 * **Data**
 
