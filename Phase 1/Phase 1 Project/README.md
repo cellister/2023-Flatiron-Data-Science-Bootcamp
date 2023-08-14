@@ -32,7 +32,7 @@ This 5-7 minute, non-technical [presentation](https://github.com/cellister/2023-
 The data used in this analysis can be found in the ‘Data’ folder. It was originally provided on the [Kaggle website](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses).
 
 * **Visualizations**
-Tableau graphs can be found on [Tableau Public] (https://public.tableau.com/views/AmateurBuiltvsSurvivalPercentage/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link). for quick access please see the [Tableau Viz](https://github.com/cellister/2023-Flatiron-Data-Science-Bootcamp/tree/main/Phase%201/Phase%201%20Project/Tableau%20Viz) folder.
+Tableau graphs can be found on [Tableau Public](https://public.tableau.com/views/AmateurBuiltvsSurvivalPercentage/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link). for quick access please see the [Tableau Viz](https://github.com/cellister/2023-Flatiron-Data-Science-Bootcamp/tree/main/Phase%201/Phase%201%20Project/Tableau%20Viz) folder.
 
 
 ## Data Understanding 
