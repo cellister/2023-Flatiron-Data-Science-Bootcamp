@@ -14,19 +14,19 @@ Exploring the landscape of Python libraries reveals a treasure trove of resource
 
 RDKit is an open-source toolkit for cheminformatics. It enables chemists to manipulate chemical structures, perform substructure searches, generate 3D models, and predict molecular properties. RDKit's extensive functionality makes it a cornerstone for drug discovery and pharmaceutical research.
 
-![RDKit Image](Images/Blog_3/RDKit_image.jpg)
+![RDKit Image](Images/Blog_3/RDKit_images.jpg)
 
 ### SciPy and NumPy: The Backbone of Scientific Computing
 
 No discussion about Python in science would be complete without mentioning SciPy and NumPy. These libraries provide powerful mathematical functions and operations for handling arrays and matrices, which are fundamental in computational chemistry for tasks like solving differential equations or performing statistical analysis.
 
-![SciPy Image](Images/Blog_3/Scipy_image.jpg)
+![SciPy Image](Images/Blog_3/Scipy_images.jpg)
 
 ### Matplotlib: Visualizing Chemical Data
 
 Visualization is a key aspect of chemistry, whether it's plotting experimental data or illustrating complex molecular structures. Matplotlib is Python's most well-known library for creating static, animated, and interactive visualizations. Its versatility and ease of use make it an essential tool for chemists.
 
-![Matplotlib Image](Images/Blog_3/Matplotlib_image.jpg)
+![Matplotlib Image](Images/Blog_3/Matplotlib_images.jpg)
 
 ## Key Resources and Libraries
 
