@@ -4,7 +4,7 @@ In the realm of scientific discovery, the fusion of technology and chemistry has
 
 ## Python and Chemistry: A Match Made in the Lab
 
-Python's rise to prominence in the scientific community is no accident. It�s easy-to-learn syntax and comprehensive standard libraries allow scientists to perform complex calculations and data analysis with minimal code. But what makes Python particularly appealing for chemistry is its vibrant ecosystem of specialized libraries. These tools can handle everything from molecular simulation to quantum chemistry, making Python an all-encompassing language for chemical research.
+Python's rise to prominence in the scientific community is no accident. It's easy-to-learn syntax and comprehensive standard libraries allow scientists to perform complex calculations and data analysis with minimal code. But what makes Python particularly appealing for chemistry is its vibrant ecosystem of specialized libraries. These tools can handle everything from molecular simulation to quantum chemistry, making Python an all-encompassing language for chemical research.
 
 ## Essential Python Libraries for Chemists
 
