@@ -79,4 +79,6 @@ By understanding and addressing these challenges, we can pave the way for a futu
 - [American Chemical Society Publications](https://pubs.acs.org/page/vi/jpc-machine-learning.html)
 - [Science Direct](https://www.sciencedirect.com/science/article/pii/S2095809923002813)
 - [Nature](https://www.nature.com/articles/s41557-021-00716-z)
-- [RSC Publishing](https://pubs.rsc.org/en/content/articlelanding/2023/sc/d2sc05089g)}
+- [RSC Publishing](https://pubs.rsc.org/en/content/articlelanding/2023/sc/d2sc05089g)
+
+Thank you for reading!
